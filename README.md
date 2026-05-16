@@ -1,5 +1,3 @@
-# Perpetro-Xiao - Alain
-
 # PerPetro XIAO — Voice Controlled Quadruped Robot
 
 PerPetro XIAO is a compact quadruped robot powered by the Seeed Studio XIAO ESP32S3 Sense and ESP-Skainet speech recognition.
@@ -627,9 +625,30 @@ This is the easiest and most reliable workflow.
 * Use simple English commands.
 * Avoid very short or difficult-to-pronounce words.
 * Keep microphone close during testing.
+---
 
+# Final Recommendation
+
+Do not rush the process or expect everything to work perfectly in a single day. Robotics, embedded systems, electronics, and firmware development require patience, iteration, and continuous learning.
+
+Mistakes, redesigns, debugging sessions, and unexpected problems are all part of the engineering process.
+
+If you truly want to grow in this field:
+
+* take your time understanding each subsystem
+* experiment with different solutions
+* learn from failures instead of avoiding them
+* focus on consistency rather than speed
+
+Every small improvement builds real experience.
+
+The goal is not only to finish the robot, but to understand how and why it works.
+
+---
 # License
 
 This project is released under the MIT License.
 
 Feel free to use, modify, and distribute the project with proper attribution.
+
+
