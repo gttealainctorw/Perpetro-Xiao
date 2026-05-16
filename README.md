@@ -142,7 +142,7 @@ The lower screw of the charging module does not necessarily require a nut.
 Place the following image inside this section:
 
 ```text id="fjlwm1"
-CIRCUIT.PNG
+<img width="1661" height="947" alt="Circuit" src="https://github.com/user-attachments/assets/81a867fc-00f0-48e1-ac6b-921877af6a7b" />
 ```
 
 ---
