@@ -1,6 +1,4 @@
-# Perpetro-Xiao
-
-# README.md
+# Perpetro-Xiao - Alain
 
 # PerPetro XIAO — Voice Controlled Quadruped Robot
 
