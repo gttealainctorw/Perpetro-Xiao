@@ -3,6 +3,8 @@
 PerPetro XIAO is a compact quadruped robot powered by the Seeed Studio XIAO ESP32S3 Sense and ESP-Skainet speech recognition.
 The robot responds to voice commands and performs multiple animated movements including walking, stretching, sitting, dancing, and posture transitions.
 
+<img width="1310" height="1201" alt="robot" src="https://github.com/user-attachments/assets/77abca19-3e70-4f05-8071-66625f3b2e0b" />
+
 ---
 
 # Features
@@ -139,11 +141,8 @@ The lower screw of the charging module does not necessarily require a nut.
 
 # Circuit Diagram
 
-Place the following image inside this section:
-
-```text id="fjlwm1"
 <img width="1661" height="947" alt="Circuit" src="https://github.com/user-attachments/assets/81a867fc-00f0-48e1-ac6b-921877af6a7b" />
-```
+
 
 ---
 
